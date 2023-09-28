@@ -9,7 +9,7 @@ let etapaAtual = 0;
 let numero = '';
 let votoBranco = false;
 let votos = [];
-
+//commit function comecar //
 function comecarEtapa() {
     let etapa = etapas[etapaAtual];
     
